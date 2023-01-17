@@ -1,2 +1,2 @@
-
-alert ("Hello !")
+const test = "test";
+alert ("Hello Inna!")
